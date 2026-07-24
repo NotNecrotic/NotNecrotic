@@ -1,1 +1,1 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NotNecrotic&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=NotNecrotic&include_all_commits=true)
+[![My GitFut card](https://gitfut.com/notnecrotic.png)](https://gitfut.com/notnecrotic)
